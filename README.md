@@ -4,8 +4,9 @@ A ChatGPT-style study assistant Flutter app that helps students capture book pag
 
 ## 📽️ Demo
 
-You can watch the project demo here:  
-[▶️ View Demo](./demostration.gif)
+Here’s a quick demo of the project in action:
+
+![Project Demo](./demo.gif)
 
 ## Features
 
