@@ -2,6 +2,11 @@
 
 A ChatGPT-style study assistant Flutter app that helps students capture book pages, extract text using OCR, and ask questions about the content.
 
+## 📽️ Demo
+
+You can watch the project demo here:  
+[▶️ View Demo](./demostration.mp4)
+
 ## Features
 
 ### 🏠 Homepage
