@@ -46,3 +46,4 @@ app.*.map.json
 
 /lib/config/
 
+lib/services/openai_service.dart
